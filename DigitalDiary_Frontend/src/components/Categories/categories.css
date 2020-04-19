@@ -1,0 +1,30 @@
+.add-category{
+    background-color:teal;
+    width: 100vh;
+    /* height: 120vh; */
+    margin: 5 auto;
+   padding: 50px;
+    /* background-color:white; */
+    /* border: 5px solid black; */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.form-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+ .form-control{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    background-color: #eee;
+ } 
+ .button{
+     color: green;
+ }
+ .category-title{
+    font-size: 30px;
+ }

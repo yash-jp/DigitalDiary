@@ -1,0 +1,5 @@
+{
+  "connectionString": "mongodb+srv://digitaldiary:saKcm3HP10mtmmEt@jarvis-eavx4.mongodb.net/test?retryWrites=true&w=majority",
+  "PORT": 5000,
+  "jwtPrivateKey": "ourSecretKey"
+}

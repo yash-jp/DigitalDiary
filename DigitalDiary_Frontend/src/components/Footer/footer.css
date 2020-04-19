@@ -1,0 +1,33 @@
+.footer-classic{
+  background-color: black;
+  margin-top: 5vh;
+}
+.contact{
+  color: white;
+}
+#copyright{
+  color: white;
+}
+.context-dark {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.footer-classic a, .footer-classic a:focus, .footer-classic a:active {
+  color:white;
+}
+.nav-list li {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.nav-list li a:hover:before {
+  margin-left: 0;
+  opacity: 1;
+  visibility: visible;
+}
+
+ul, ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}

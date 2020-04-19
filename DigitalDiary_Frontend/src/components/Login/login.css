@@ -1,0 +1,61 @@
+.row1{
+  background-color: blue;
+}
+
+.row2{
+  background-color: red;
+}
+
+.align-me {
+  display: flex;
+  align-items: center;
+}
+
+.main-div{
+  /* background-color: crimson; */
+  margin: 0 auto;
+  margin-top: 30vh;
+  width: 80vw;
+  height: 90vh;
+}
+
+.form-container{
+  /* background-color: darkcyan; */
+  /* width: 50%;  */
+  margin: 0 auto;
+}
+
+.row-container{
+  /* background-color: darkmagenta; */
+  width: 70vw;
+  margin: 0 auto;
+  /* background-color: chartreuse; */
+}
+
+.column-container{
+  /* margin: 0 auto; */
+  /* background-color: darkolivegreen; */
+}
+
+.form-container{
+  border: 1px solid black;
+  /* background-color: blue; */
+  /* width: auto; */
+  padding: 20px;
+}
+
+.my-div{
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 20vh;
+}
+
+.signup{
+  /* ackground-color: coral; */
+  text-align: center;
+}
+
+.error{
+  color: red;
+}
+

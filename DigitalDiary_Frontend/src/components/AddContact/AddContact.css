@@ -1,0 +1,38 @@
+.add-contact-container{
+  /* background-color: crimson; */
+  width: 80vw;
+  height: 70vh;
+  margin: 0 auto;
+  margin-top: 20vh;
+  /* background-color: saddlebrown; */
+  /* box-shadow: 0 4px 8px 0 rgba(150, 150, 150, 0.2); */
+  box-shadow: 0px 4px 8px 0px #747474;
+  /* background-color: red; */
+}
+
+.add-contact-col{
+  margin: 5px auto;
+}
+
+/* .add-contact-title{
+  text-align: center;
+} */
+
+.add-contact-form{
+  /* background-color: cyan; */
+  /* border: 5px solid royalblue; */
+}
+
+.d2{
+  margin-top: 5px;
+  /* background-color: salmon; */
+  /* text-align: center; */
+  /* margin-left: 5px; */
+}
+
+.d1{
+   
+  /* text-align: left; */ 
+  /* margin-right: 5px; */
+}
+

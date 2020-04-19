@@ -1,0 +1,22 @@
+{
+  "name": "digitaldiary",
+  "version": "1.0.0",
+  "description": "Digital Diary and Note Keeper application built using React as frontend Node/Express as backend and MongoBD as the database. With help of various libraries such as bcrypt, OAuth, JWT, express-validator, joi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.8",
+    "config": "^3.2.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.1",
+    "nodemon": "^2.0.2"
+  }
+}

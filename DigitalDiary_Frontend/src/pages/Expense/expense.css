@@ -1,0 +1,24 @@
+.expenseTitle{
+    margin-right: 30px;
+}
+
+.expenseCategory{
+    margin-left: 10px;
+}
+
+.expenseCost{
+    margin-right: 30px;
+}
+
+.expenseComment{
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+.editButton{
+    margin-left: 230px;
+}
+
+#allButton{
+    margin-left: 230px;
+}
